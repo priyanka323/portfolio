@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.firstimg{
+  border-radius: 100%;
+  width: 20%;
+  height: 20%;
+  border: 10px;
+  border-style: solid;
+  border-color: red;
+
+}
+.intro{
+  border:50px;
+  border-color:rgb(255, 0, 0);
+  text-decoration-color: red;
+  font-style: italic;
+}
